@@ -1,1 +1,1 @@
-my impl for the labs in the course CS:APP at CMU
+this repository contains my impl for [the labs in the course CS:APP at CMU](https://csapp.cs.cmu.edu/3e/labs.html)
